@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.crmap.crmapp",
+      "sha256_cert_fingerprints": [
+        "5A:D0:7B:42:BF:5F:79:21:23:6F:EE:64:28:EA:84:6E:F2:D6:51:C9:97:95:D0:E5:66:A9:ED:EA:A8:EF:56:F2"
+      ]
+    }
+  }
+]
